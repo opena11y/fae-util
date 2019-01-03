@@ -1,3 +1,0 @@
-These URL(s) either took too long to process, had an exception thrown during running of the scripts, or returned 403/404 status code:
-http://www.umt.edu/sell/programs/transitions/default.php
-http://www.umt.edu/sell/courseproposal/ceu

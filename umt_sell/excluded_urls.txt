@@ -1,9 +1,0 @@
-These URL(s) were excluded based on the extensions to not process:
-http://www.umt.edu/sell/meetingspace/imx/cc_location.pdf
-http://www.umt.edu/sell/meetingspace/imx/cc_location.pdf
-linkedpdfs/Bus-Route-Southgate-Mall.pdf
-linkedpdfs/Bus-Route-Community-Hospital.pdf
-linkedpdfs/UDash-from-Missoula-College.pdf
-imx-molli/UDash-to-and-from-Lewis-Clark-Transfer-Center.pdf
-http://www.umt.edu/sell/meetingspace/imx/cc_location.pdf
-http://www.umt.edu/sell/meetingspace/imx/cc_location.pdf
