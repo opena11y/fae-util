@@ -1,0 +1,8 @@
+These URL(s) either took too long to process, had an exception thrown during running of the scripts, or returned 403/404 status code:
+https://www.shaverscreek.org/school-organization-programs/field-trips/
+https://www.shaverscreek.org/school-organization-programs/teacher-training/
+https://www.shaverscreek.org/school-organization-programs/traveling-naturalist-programs/
+http://www.shaverscreek.org/school-organization-programs/field-trips/
+http://www.shaverscreek.org/school-organization-programs/teacher-training/
+http://www.shaverscreek.org/school-organization-programs/traveling-naturalist-programs/
+https://www.shaverscreek.org/blog/feed/

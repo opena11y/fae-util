@@ -1,0 +1,11 @@
+status=complete
+url=
+processed=18
+unprocessed=2
+excluded=8
+filtered=533
+time=54.121
+login_attempts=0
+login_success=0
+login_fail=0
+more_urls=false

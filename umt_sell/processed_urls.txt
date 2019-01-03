@@ -1,0 +1,39 @@
+18 total URL(s) processsed. All URL(s) processsed:
+	0: http://www.umt.edu/sell/
+	1: http://www.umt.edu/sell/default.php
+	2: http://www.umt.edu/sell/programs/default.php
+	3: http://www.umt.edu/sell/cps/default.php
+	4: http://www.umt.edu/sell/meetingspace/default.php
+	5: http://www.umt.edu/sell/extended/default.php
+	6: http://www.umt.edu/sell/aboutus/default.php
+	7: http://www.umt.edu/sell/services.php
+	8: http://www.umt.edu/sell/programs/molli/default.php
+	9: http://www.umt.edu/sell/programs/bee/default.php
+	10: http://www.umt.edu/sell/programs/brew/default.php
+	11: http://www.umt.edu/sell/meetingspace/events.php
+	12: http://www.umt.edu/sell/msgfromdean.php
+	13: http://www.umt.edu/sell/aboutus/staff.php
+	14: http://www.umt.edu/sell/programs/transitions/default.php
+	15: http://www.umt.edu/sell/programs/profdev/default.php
+	16: http://www.umt.edu/sell/programs/reading.php
+	17: http://www.umt.edu/sell/courseproposal/ceu
+
+Tree representation of URL(s) processsed:
+http://www.umt.edu/sell/
+	http://www.umt.edu/sell/default.php
+	http://www.umt.edu/sell/programs/default.php
+	http://www.umt.edu/sell/cps/default.php
+	http://www.umt.edu/sell/meetingspace/default.php
+	http://www.umt.edu/sell/extended/default.php
+	http://www.umt.edu/sell/aboutus/default.php
+	http://www.umt.edu/sell/services.php
+	http://www.umt.edu/sell/programs/molli/default.php
+	http://www.umt.edu/sell/programs/bee/default.php
+	http://www.umt.edu/sell/programs/brew/default.php
+	http://www.umt.edu/sell/meetingspace/events.php
+	http://www.umt.edu/sell/msgfromdean.php
+	http://www.umt.edu/sell/aboutus/staff.php
+	http://www.umt.edu/sell/programs/transitions/default.php
+	http://www.umt.edu/sell/programs/profdev/default.php
+	http://www.umt.edu/sell/programs/reading.php
+	http://www.umt.edu/sell/courseproposal/ceu

@@ -1,0 +1,237 @@
+117 total URL(s) processsed. All URL(s) processsed:
+	0: http://illinois.edu/
+	1: http://illinois.edu/index.html
+	2: http://directory.illinois.edu/azList
+	3: http://map.illinois.edu/view
+	4: http://library.illinois.edu/
+	5: http://giving.illinois.edu/
+	6: http://illinois.edu/students/index.html
+	7: http://illinois.edu/facultystaff/index.html
+	8: http://illinois.edu/alumni/index.html
+	9: http://illinois.edu/parents/index.html
+	10: http://illinois.edu/about/index.html
+	11: http://illinois.edu/about/leadership.html
+	12: http://illinois.edu/about/facts.html
+	13: http://illinois.edu/about/research.html
+	14: http://illinois.edu/about/awards.html
+	15: http://illinois.edu/about/rankings.html
+	16: http://illinois.edu/about/tours.html
+	17: http://illinois.edu/resources/calendars.html
+	18: http://illinois.edu/admissions/index.html
+	19: http://admissions.illinois.edu/
+	20: http://admissions.illinois.edu/Discover/Academics/majors
+	21: http://admissions.illinois.edu/Visit/campus-visits
+	22: http://admissions.illinois.edu/Invest/tuition
+	23: http://admissions.illinois.edu/Invest/financial-aid
+	24: http://admissions.illinois.edu/myillini
+	25: http://admissions.illinois.edu/contact
+	26: http://grad.illinois.edu/admissions
+	27: http://grad.illinois.edu/admissions/apply
+	28: http://grad.illinois.edu/program-contacts
+	29: http://grad.illinois.edu/funding-jobs
+	30: http://catalog.illinois.edu/undergraduate/
+	31: http://catalog.illinois.edu/graduate/
+	32: http://illinois.edu/academics/index.html
+	33: http://illinois.edu/academics/academics.html
+	34: http://catalog.illinois.edu/general-information/
+	35: http://illinois.edu/academics/honors.html
+	36: https://courses.illinois.edu//
+	37: http://registrar.illinois.edu/online-registration
+	38: http://senate.illinois.edu/a_calendar.asp
+	39: http://registrar.illinois.edu/transcripts
+	40: http://illinois.edu/research/index.html
+	41: http://research.illinois.edu/
+	42: http://news.illinois.edu/
+	43: http://research.illinois.edu/research-illinois/research-centers-and-programs
+	44: https://experts.illinois.edu/
+	45: http://researchpark.illinois.edu/
+	46: http://otm.illinois.edu/
+	47: http://corporaterelations.illinois.edu/
+	48: http://calendars.illinois.edu/list/4757
+	49: http://strategicplan.illinois.edu/
+	50: http://illinois.edu/outreach/index.html
+	51: http://engage.illinois.edu/
+	52: http://engage.illinois.edu/filter/UpcomingEvents
+	53: http://illinois.edu/international/index.html
+	54: http://international.illinois.edu/
+	55: http://isss.illinois.edu/students/prospective/
+	56: http://international.illinois.edu/global-impact/offices-academics.html
+	57: http://international.illinois.edu/global-impact/overview.html
+	58: http://isss.illinois.edu/students/
+	59: http://isss.illinois.edu/scholars/index.html
+	60: http://illinois.edu/arts/index.html
+	61: http://faa.illinois.edu/
+	62: http://las.illinois.edu/units/
+	63: http://oiir.illinois.edu/
+	64: http://kam.illinois.edu/
+	65: http://spurlock.illinois.edu/
+	66: http://illinois.edu/athletics/index.html
+	67: http://disability.illinois.edu/athletics
+	68: http://campusrec.illinois.edu/
+	69: http://illinois.edu/Library/resources/calendars.html
+	70: https://news.illinois.edu/view/6367/680003
+	71: https://news.illinois.edu/view/6367/679821
+	72: https://news.illinois.edu/view/6367/677835
+	73: https://news.illinois.edu/view/6367/677852
+	74: http://storied.illinois.edu/a-donation-for-the-ages/
+	75: https://news.illinois.edu/view/6367/680946
+	76: https://news.illinois.edu/view/6367/680728
+	77: https://blogs.illinois.edu/view/6231
+	78: https://news.illinois.edu/view/6367/678200
+	79: https://beckman.illinois.edu/news/2018/07/scifuture-cancer
+	80: https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=361
+	81: https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=362
+	82: https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=363
+	83: https://news.illinois.edu/viewCategory/6367?ACTION=POST_LIST&queryCategory=546&queryCategory=548&queryCategory=549&queryCategory=550&queryCategory=551&queryCategory=552
+	84: https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=365
+	85: https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=366
+	86: https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=367
+	87: https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=368
+	88: https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=369
+	89: https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=370
+	90: https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=371
+	91: https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=372
+	92: https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=373
+	93: https://calendars.illinois.edu/detail/7/33304990
+	94: https://calendars.illinois.edu/detail/7/33308415
+	95: https://calendars.illinois.edu/detail/7/33307298
+	96: https://calendars.illinois.edu/detail/7/33304919
+	97: http://directory.illinois.edu/socialMedia
+	98: http://aces.illinois.edu/
+	99: http://beckman.illinois.edu/
+	100: http://lis.illinois.edu/
+	101: http://sustainability.illinois.edu/
+	102: http://healthinstitute.illinois.edu/
+	103: http://prairie.illinois.edu/
+	104: http://directory.illinois.edu/search
+	105: http://illinois.edu/map/view
+	106: https://techservices.illinois.edu/services/email
+	107: http://illinois.edu/resources/contact.html
+	108: http://inclusiveillinois.illinois.edu/
+	109: http://illinois.edu/resources/emergency.html
+	110: https://chancellor.illinois.edu/view/7101/678012
+	111: http://uillinois.edu/about/policies
+	112: http://illinois.edu/resources/employment.html
+	113: http://www.uillinois.edu/
+	114: http://online.uillinois.edu/
+	115: http://illinois.edu/resources/website/copyright.html
+	116: http://illinois.edu/resources/website/accessibility.html
+
+Tree representation of URL(s) processsed:
+http://illinois.edu/
+	http://illinois.edu/index.html
+	http://directory.illinois.edu/azList
+	http://map.illinois.edu/view
+	http://library.illinois.edu/
+	http://giving.illinois.edu/
+	http://illinois.edu/students/index.html
+	http://illinois.edu/facultystaff/index.html
+	http://illinois.edu/alumni/index.html
+	http://illinois.edu/parents/index.html
+	http://illinois.edu/about/index.html
+	http://illinois.edu/about/leadership.html
+	http://illinois.edu/about/facts.html
+	http://illinois.edu/about/research.html
+	http://illinois.edu/about/awards.html
+	http://illinois.edu/about/rankings.html
+	http://illinois.edu/about/tours.html
+	http://illinois.edu/resources/calendars.html
+	http://illinois.edu/admissions/index.html
+	http://admissions.illinois.edu/
+	http://admissions.illinois.edu/Discover/Academics/majors
+	http://admissions.illinois.edu/Visit/campus-visits
+	http://admissions.illinois.edu/Invest/tuition
+	http://admissions.illinois.edu/Invest/financial-aid
+	http://admissions.illinois.edu/myillini
+	http://admissions.illinois.edu/contact
+	http://grad.illinois.edu/admissions
+	http://grad.illinois.edu/admissions/apply
+	http://grad.illinois.edu/program-contacts
+	http://grad.illinois.edu/funding-jobs
+	http://catalog.illinois.edu/undergraduate/
+	http://catalog.illinois.edu/graduate/
+	http://illinois.edu/academics/index.html
+	http://illinois.edu/academics/academics.html
+	http://catalog.illinois.edu/general-information/
+	http://illinois.edu/academics/honors.html
+	https://courses.illinois.edu//
+	http://registrar.illinois.edu/online-registration
+	http://senate.illinois.edu/a_calendar.asp
+	http://registrar.illinois.edu/transcripts
+	http://illinois.edu/research/index.html
+	http://research.illinois.edu/
+	http://news.illinois.edu/
+	http://research.illinois.edu/research-illinois/research-centers-and-programs
+	https://experts.illinois.edu/
+	http://researchpark.illinois.edu/
+	http://otm.illinois.edu/
+	http://corporaterelations.illinois.edu/
+	http://calendars.illinois.edu/list/4757
+	http://strategicplan.illinois.edu/
+	http://illinois.edu/outreach/index.html
+	http://engage.illinois.edu/
+	http://engage.illinois.edu/filter/UpcomingEvents
+	http://illinois.edu/international/index.html
+	http://international.illinois.edu/
+	http://isss.illinois.edu/students/prospective/
+	http://international.illinois.edu/global-impact/offices-academics.html
+	http://international.illinois.edu/global-impact/overview.html
+	http://isss.illinois.edu/students/
+	http://isss.illinois.edu/scholars/index.html
+	http://illinois.edu/arts/index.html
+	http://faa.illinois.edu/
+	http://las.illinois.edu/units/
+	http://oiir.illinois.edu/
+	http://kam.illinois.edu/
+	http://spurlock.illinois.edu/
+	http://illinois.edu/athletics/index.html
+	http://disability.illinois.edu/athletics
+	http://campusrec.illinois.edu/
+	http://illinois.edu/Library/resources/calendars.html
+	https://news.illinois.edu/view/6367/680003
+	https://news.illinois.edu/view/6367/679821
+	https://news.illinois.edu/view/6367/677835
+	https://news.illinois.edu/view/6367/677852
+	http://storied.illinois.edu/a-donation-for-the-ages/
+	https://news.illinois.edu/view/6367/680946
+	https://news.illinois.edu/view/6367/680728
+	https://blogs.illinois.edu/view/6231
+	https://news.illinois.edu/view/6367/678200
+	https://beckman.illinois.edu/news/2018/07/scifuture-cancer
+	https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=361
+	https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=362
+	https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=363
+	https://news.illinois.edu/viewCategory/6367?ACTION=POST_LIST&queryCategory=546&queryCategory=548&queryCategory=549&queryCategory=550&queryCategory=551&queryCategory=552
+	https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=365
+	https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=366
+	https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=367
+	https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=368
+	https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=369
+	https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=370
+	https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=371
+	https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=372
+	https://news.illinois.edu/view/6367?ACTION=POST_LIST&queryCategory=373
+	https://calendars.illinois.edu/detail/7/33304990
+	https://calendars.illinois.edu/detail/7/33308415
+	https://calendars.illinois.edu/detail/7/33307298
+	https://calendars.illinois.edu/detail/7/33304919
+	http://directory.illinois.edu/socialMedia
+	http://aces.illinois.edu/
+	http://beckman.illinois.edu/
+	http://lis.illinois.edu/
+	http://sustainability.illinois.edu/
+	http://healthinstitute.illinois.edu/
+	http://prairie.illinois.edu/
+	http://directory.illinois.edu/search
+	http://illinois.edu/map/view
+	https://techservices.illinois.edu/services/email
+	http://illinois.edu/resources/contact.html
+	http://inclusiveillinois.illinois.edu/
+	http://illinois.edu/resources/emergency.html
+	https://chancellor.illinois.edu/view/7101/678012
+	http://uillinois.edu/about/policies
+	http://illinois.edu/resources/employment.html
+	http://www.uillinois.edu/
+	http://online.uillinois.edu/
+	http://illinois.edu/resources/website/copyright.html
+	http://illinois.edu/resources/website/accessibility.html

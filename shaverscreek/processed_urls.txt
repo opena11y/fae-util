@@ -1,0 +1,271 @@
+134 total URL(s) processsed. All URL(s) processsed:
+	0: http://www.shaverscreek.org/
+	1: https://www.shaverscreek.org/
+	2: https://www.shaverscreek.org/public-programs-and-events/
+	3: https://www.shaverscreek.org/public-programs-and-events/maple-harvest-festival/
+	4: https://www.shaverscreek.org/public-programs-and-events/enchanted-halloween-trail/
+	5: https://www.shaverscreek.org/public-programs-and-events/native-plant-fest/
+	6: https://www.shaverscreek.org/public-programs-and-events/birding-cup/
+	7: https://www.shaverscreek.org/public-programs-and-events/birdwalks/
+	8: https://www.shaverscreek.org/public-programs-and-events/meet-the-creek-weekends/
+	9: https://www.shaverscreek.org/public-programs-and-events/camps/
+	10: https://www.shaverscreek.org/public-programs-and-events/kids-corner/
+	11: https://www.shaverscreek.org/public-programs-and-events/music-festival/
+	12: https://www.shaverscreek.org/school-organization-programs/
+	13: https://www.shaverscreek.org/school-organization-programs/schoolprograms/
+	14: https://www.shaverscreek.org/school-organization-programs/outdoor-school-for-teachers/
+	15: https://www.shaverscreek.org/school-organization-programs/team-development-center/
+	16: https://www.shaverscreek.org/penn-state-students/
+	17: https://www.shaverscreek.org/penn-state-students/credit-courses/
+	18: https://www.shaverscreek.org/penn-state-students/credit-courses/seed-semester/
+	19: https://www.shaverscreek.org/penn-state-students/outdoor-school/
+	20: https://www.shaverscreek.org/penn-state-students/work-study/
+	21: https://www.shaverscreek.org/penn-state-students/graduate-student-opportunities/
+	22: https://www.shaverscreek.org/penn-state-students/aurora/
+	23: https://www.shaverscreek.org/penn-state-students/aurora/orion/
+	24: https://www.shaverscreek.org/penn-state-students/aurora/polaris/
+	25: https://www.shaverscreek.org/penn-state-students/aurora/rigel/
+	26: https://www.shaverscreek.org/penn-state-students/aurora/ursa/
+	27: https://www.shaverscreek.org/penn-state-students/aurora/vega/
+	28: https://www.shaverscreek.org/about-us/
+	29: https://www.shaverscreek.org/about-us/visitor-information/
+	30: https://www.shaverscreek.org/about-us/initiatives/
+	31: https://www.shaverscreek.org/about-us/initiatives/long-term-ecological-reflections-project/
+	32: https://www.shaverscreek.org/about-us/social/
+	33: https://www.shaverscreek.org/about-us/social/incus-iris-podcast/
+	34: https://www.shaverscreek.org/about-us/weather-at-shavers-creek/
+	35: https://www.shaverscreek.org/about-us/contact-us/
+	36: https://www.shaverscreek.org/about-us/meet-the-staff/
+	37: https://www.shaverscreek.org/penn-state-students/research/
+	38: https://www.shaverscreek.org/about-us/environmental-partners/
+	39: https://www.shaverscreek.org/support-shavers-creek/become-a-member/
+	40: https://www.shaverscreek.org/support-shavers-creek/other-ways-to-support-shavers-creek/
+	41: https://www.shaverscreek.org/support-shavers-creek/volunteer/
+	42: https://www.shaverscreek.org/blog/
+	43: https://www.shaverscreek.org/event/stem-pillars-engineering-world/
+	44: https://www.shaverscreek.org/event/stem-pillars-happy-valley-sky/
+	45: https://www.shaverscreek.org/event/museum-day-meet-animals/
+	46: https://www.shaverscreek.org/event/migration-morning-50/
+	47: https://www.shaverscreek.org/employment/internships/
+	48: https://www.shaverscreek.org/Lead/
+	49: https://www.shaverscreek.org/blog/birding-cup-2018-truly-community-event
+	50: https://www.shaverscreek.org/public-programs-and-events
+	51: https://www.shaverscreek.org/public-programs-and-events/fall-harvest-festival/
+	52: https://www.shaverscreek.org/public-programs-and-events/family-and-youth-programs/
+	53: https://www.shaverscreek.org/school-organization-programs/field-trips/
+	54: https://www.shaverscreek.org/school-organization-programs/teacher-training/
+	55: https://www.shaverscreek.org/school-organization-programs/traveling-naturalist-programs/
+	56: https://www.shaverscreek.org/penn-state-students/orion/
+	57: https://www.shaverscreek.org/penn-state-students/ursa/
+	58: https://www.shaverscreek.org/about-us/multimedia-and-videos-about-shavers-creek/
+	59: https://www.shaverscreek.org/employment/
+	60: https://www.shaverscreek.org/program-sponsors
+	61: https://www.shaverscreek.org/university-policies
+	62: http://www.shaverscreek.org/school-organization-programs/outdoor-school-for-teachers/
+	63: http://www.shaverscreek.org/support-shavers-creek/become-a-member/
+	64: https://www.shaverscreek.org/school-organization-programs/festival-display/
+	65: http://www.shaverscreek.org/about-us/contact-us/
+	66: http://www.shaverscreek.org/public-programs-and-events
+	67: http://www.shaverscreek.org/public-programs-and-events/birding-cup/
+	68: http://www.shaverscreek.org/public-programs-and-events/birdwalks/
+	69: http://www.shaverscreek.org/public-programs-and-events/camps/
+	70: http://www.shaverscreek.org/public-programs-and-events/fall-harvest-festival/
+	71: http://www.shaverscreek.org/public-programs-and-events/family-and-youth-programs/
+	72: http://www.shaverscreek.org/public-programs-and-events/kids-corner/
+	73: http://www.shaverscreek.org/public-programs-and-events/maple-harvest-festival/
+	74: http://www.shaverscreek.org/public-programs-and-events/music-festival/
+	75: http://www.shaverscreek.org/public-programs-and-events/meet-the-creek-weekends/
+	76: http://www.shaverscreek.org/public-programs-and-events/native-plant-fest/
+	77: http://www.shaverscreek.org/school-organization-programs/
+	78: http://www.shaverscreek.org/school-organization-programs/field-trips/
+	79: http://www.shaverscreek.org/school-organization-programs/teacher-training/
+	80: http://www.shaverscreek.org/school-organization-programs/team-development-center/
+	81: http://www.shaverscreek.org/school-organization-programs/traveling-naturalist-programs/
+	82: http://www.shaverscreek.org/penn-state-students/
+	83: http://www.shaverscreek.org/penn-state-students/credit-courses/
+	84: http://www.shaverscreek.org/penn-state-students/work-study/
+	85: http://www.shaverscreek.org/penn-state-students/graduate-student-opportunities/
+	86: http://www.shaverscreek.org/penn-state-students/outdoor-school/
+	87: http://www.shaverscreek.org/penn-state-students/orion/
+	88: http://www.shaverscreek.org/penn-state-students/ursa/
+	89: http://www.shaverscreek.org/penn-state-students/research/
+	90: http://www.shaverscreek.org/about-us/
+	91: http://www.shaverscreek.org/about-us/environmental-partners/
+	92: http://www.shaverscreek.org/about-us/initiatives/
+	93: http://www.shaverscreek.org/about-us/meet-the-staff/
+	94: http://www.shaverscreek.org/about-us/multimedia-and-videos-about-shavers-creek/
+	95: http://www.shaverscreek.org/about-us/visitor-information/
+	96: http://www.shaverscreek.org/support-shavers-creek/other-ways-to-support-shavers-creek/
+	97: http://www.shaverscreek.org/support-shavers-creek/volunteer/
+	98: http://www.shaverscreek.org/program-sponsors
+	99: http://www.shaverscreek.org/university-policies
+	100: http://www.shaverscreek.org/public-programs-and-events/
+	101: https://www.shaverscreek.org/email
+	102: https://www.shaverscreek.org/calendar/2018-08
+	103: https://www.shaverscreek.org/calendar/2018-10
+	104: https://www.shaverscreek.org/calendar/upcoming/
+	105: https://www.shaverscreek.org/calendar/month/
+	106: https://www.shaverscreek.org/event/grand-reopening-celebration/
+	107: https://www.shaverscreek.org/event/migration-morning-47/
+	108: https://www.shaverscreek.org/event/migration-morning-48/
+	109: https://www.shaverscreek.org/event/book-signing-capturing-changing-landscape/
+	110: https://www.shaverscreek.org/event/the-mysterious-monarch/
+	111: https://www.shaverscreek.org/event/the-mysterious-monarch-2/
+	112: https://www.shaverscreek.org/event/migration-morning-49/
+	113: http://www.shaverscreek.org/blog/
+	114: https://www.shaverscreek.org/blog/feed/
+	115: https://www.shaverscreek.org/2018/05/09/birding-cup-2018-truly-community-event/
+	116: https://www.shaverscreek.org/2018/05/02/better-person-im-outside/
+	117: https://www.shaverscreek.org/2018/02/20/start-sing-song-season/
+	118: https://www.shaverscreek.org/2018/02/14/weekend-great-backyard-bird-count/
+	119: http://www.shaverscreek.org/birding-cup-2018-truly-community-event
+	120: http://www.shaverscreek.org/better-person-im-outside
+	121: http://www.shaverscreek.org/start-sing-song-season
+	122: http://www.shaverscreek.org/weekend-great-backyard-bird-count
+	123: http://www.shaverscreek.org/adaptive-programming
+	124: https://www.shaverscreek.org/blog/page/2/
+	125: https://www.shaverscreek.org/blog/page/3/
+	126: https://www.shaverscreek.org/blog/page/58/
+	127: http://www.shaverscreek.org/employment/internships/
+	128: https://www.shaverscreek.org/employment/aurora-employment/
+	129: https://www.shaverscreek.org/employment/naturalists/
+	130: https://www.shaverscreek.org/employment/internships/internship-application-form/
+	131: http://www.shaverscreek.org/blog/birding-cup-2018-truly-community-event
+	132: http://shaverscreek.org/BirdingCupDonations
+	133: https://www.shaverscreek.org/wp-login.php?redirect_to=https%3A%2F%2Fwww.shaverscreek.org%2F2018%2F05%2F09%2Fbirding-cup-2018-truly-community-event%2F
+
+Tree representation of URL(s) processsed:
+http://www.shaverscreek.org/
+	https://www.shaverscreek.org/
+		https://www.shaverscreek.org/public-programs-and-events/
+		https://www.shaverscreek.org/public-programs-and-events/maple-harvest-festival/
+		https://www.shaverscreek.org/public-programs-and-events/enchanted-halloween-trail/
+		https://www.shaverscreek.org/public-programs-and-events/native-plant-fest/
+		https://www.shaverscreek.org/public-programs-and-events/birding-cup/
+		https://www.shaverscreek.org/public-programs-and-events/birdwalks/
+		https://www.shaverscreek.org/public-programs-and-events/meet-the-creek-weekends/
+		https://www.shaverscreek.org/public-programs-and-events/camps/
+		https://www.shaverscreek.org/public-programs-and-events/kids-corner/
+		https://www.shaverscreek.org/public-programs-and-events/music-festival/
+		https://www.shaverscreek.org/school-organization-programs/
+		https://www.shaverscreek.org/school-organization-programs/schoolprograms/
+		https://www.shaverscreek.org/school-organization-programs/outdoor-school-for-teachers/
+		https://www.shaverscreek.org/school-organization-programs/team-development-center/
+		https://www.shaverscreek.org/penn-state-students/
+		https://www.shaverscreek.org/penn-state-students/credit-courses/
+		https://www.shaverscreek.org/penn-state-students/credit-courses/seed-semester/
+		https://www.shaverscreek.org/penn-state-students/outdoor-school/
+		https://www.shaverscreek.org/penn-state-students/work-study/
+		https://www.shaverscreek.org/penn-state-students/graduate-student-opportunities/
+		https://www.shaverscreek.org/penn-state-students/aurora/
+		https://www.shaverscreek.org/penn-state-students/aurora/orion/
+		https://www.shaverscreek.org/penn-state-students/aurora/polaris/
+		https://www.shaverscreek.org/penn-state-students/aurora/rigel/
+		https://www.shaverscreek.org/penn-state-students/aurora/ursa/
+		https://www.shaverscreek.org/penn-state-students/aurora/vega/
+		https://www.shaverscreek.org/about-us/
+		https://www.shaverscreek.org/about-us/visitor-information/
+		https://www.shaverscreek.org/about-us/initiatives/
+		https://www.shaverscreek.org/about-us/initiatives/long-term-ecological-reflections-project/
+		https://www.shaverscreek.org/about-us/social/
+		https://www.shaverscreek.org/about-us/social/incus-iris-podcast/
+		https://www.shaverscreek.org/about-us/weather-at-shavers-creek/
+		https://www.shaverscreek.org/about-us/contact-us/
+		https://www.shaverscreek.org/about-us/meet-the-staff/
+		https://www.shaverscreek.org/penn-state-students/research/
+		https://www.shaverscreek.org/about-us/environmental-partners/
+		https://www.shaverscreek.org/support-shavers-creek/become-a-member/
+		https://www.shaverscreek.org/support-shavers-creek/other-ways-to-support-shavers-creek/
+		https://www.shaverscreek.org/support-shavers-creek/volunteer/
+		https://www.shaverscreek.org/blog/
+		https://www.shaverscreek.org/event/stem-pillars-engineering-world/
+		https://www.shaverscreek.org/event/stem-pillars-happy-valley-sky/
+		https://www.shaverscreek.org/event/museum-day-meet-animals/
+		https://www.shaverscreek.org/event/migration-morning-50/
+		https://www.shaverscreek.org/employment/internships/
+		https://www.shaverscreek.org/Lead/
+		https://www.shaverscreek.org/blog/birding-cup-2018-truly-community-event
+		https://www.shaverscreek.org/public-programs-and-events
+		https://www.shaverscreek.org/public-programs-and-events/fall-harvest-festival/
+		https://www.shaverscreek.org/public-programs-and-events/family-and-youth-programs/
+		https://www.shaverscreek.org/school-organization-programs/field-trips/
+		https://www.shaverscreek.org/school-organization-programs/teacher-training/
+		https://www.shaverscreek.org/school-organization-programs/traveling-naturalist-programs/
+		https://www.shaverscreek.org/penn-state-students/orion/
+		https://www.shaverscreek.org/penn-state-students/ursa/
+		https://www.shaverscreek.org/about-us/multimedia-and-videos-about-shavers-creek/
+		https://www.shaverscreek.org/employment/
+		https://www.shaverscreek.org/program-sponsors
+		https://www.shaverscreek.org/university-policies
+	http://www.shaverscreek.org/school-organization-programs/outdoor-school-for-teachers/
+		http://www.shaverscreek.org/support-shavers-creek/become-a-member/
+		https://www.shaverscreek.org/school-organization-programs/festival-display/
+		http://www.shaverscreek.org/about-us/contact-us/
+		http://www.shaverscreek.org/public-programs-and-events
+		http://www.shaverscreek.org/public-programs-and-events/birding-cup/
+		http://www.shaverscreek.org/public-programs-and-events/birdwalks/
+		http://www.shaverscreek.org/public-programs-and-events/camps/
+		http://www.shaverscreek.org/public-programs-and-events/fall-harvest-festival/
+		http://www.shaverscreek.org/public-programs-and-events/family-and-youth-programs/
+		http://www.shaverscreek.org/public-programs-and-events/kids-corner/
+		http://www.shaverscreek.org/public-programs-and-events/maple-harvest-festival/
+		http://www.shaverscreek.org/public-programs-and-events/music-festival/
+		http://www.shaverscreek.org/public-programs-and-events/meet-the-creek-weekends/
+		http://www.shaverscreek.org/public-programs-and-events/native-plant-fest/
+		http://www.shaverscreek.org/school-organization-programs/
+		http://www.shaverscreek.org/school-organization-programs/field-trips/
+		http://www.shaverscreek.org/school-organization-programs/teacher-training/
+		http://www.shaverscreek.org/school-organization-programs/team-development-center/
+		http://www.shaverscreek.org/school-organization-programs/traveling-naturalist-programs/
+		http://www.shaverscreek.org/penn-state-students/
+		http://www.shaverscreek.org/penn-state-students/credit-courses/
+		http://www.shaverscreek.org/penn-state-students/work-study/
+		http://www.shaverscreek.org/penn-state-students/graduate-student-opportunities/
+		http://www.shaverscreek.org/penn-state-students/outdoor-school/
+		http://www.shaverscreek.org/penn-state-students/orion/
+		http://www.shaverscreek.org/penn-state-students/ursa/
+		http://www.shaverscreek.org/penn-state-students/research/
+		http://www.shaverscreek.org/about-us/
+		http://www.shaverscreek.org/about-us/environmental-partners/
+		http://www.shaverscreek.org/about-us/initiatives/
+		http://www.shaverscreek.org/about-us/meet-the-staff/
+		http://www.shaverscreek.org/about-us/multimedia-and-videos-about-shavers-creek/
+		http://www.shaverscreek.org/about-us/visitor-information/
+		http://www.shaverscreek.org/support-shavers-creek/other-ways-to-support-shavers-creek/
+		http://www.shaverscreek.org/support-shavers-creek/volunteer/
+		http://www.shaverscreek.org/program-sponsors
+		http://www.shaverscreek.org/university-policies
+	http://www.shaverscreek.org/public-programs-and-events/
+		https://www.shaverscreek.org/email
+		https://www.shaverscreek.org/calendar/2018-08
+		https://www.shaverscreek.org/calendar/2018-10
+		https://www.shaverscreek.org/calendar/upcoming/
+		https://www.shaverscreek.org/calendar/month/
+		https://www.shaverscreek.org/event/grand-reopening-celebration/
+		https://www.shaverscreek.org/event/migration-morning-47/
+		https://www.shaverscreek.org/event/migration-morning-48/
+		https://www.shaverscreek.org/event/book-signing-capturing-changing-landscape/
+		https://www.shaverscreek.org/event/the-mysterious-monarch/
+		https://www.shaverscreek.org/event/the-mysterious-monarch-2/
+		https://www.shaverscreek.org/event/migration-morning-49/
+	http://www.shaverscreek.org/blog/
+		https://www.shaverscreek.org/blog/feed/
+		https://www.shaverscreek.org/2018/05/09/birding-cup-2018-truly-community-event/
+		https://www.shaverscreek.org/2018/05/02/better-person-im-outside/
+		https://www.shaverscreek.org/2018/02/20/start-sing-song-season/
+		https://www.shaverscreek.org/2018/02/14/weekend-great-backyard-bird-count/
+		http://www.shaverscreek.org/birding-cup-2018-truly-community-event
+		http://www.shaverscreek.org/better-person-im-outside
+		http://www.shaverscreek.org/start-sing-song-season
+		http://www.shaverscreek.org/weekend-great-backyard-bird-count
+		http://www.shaverscreek.org/adaptive-programming
+		https://www.shaverscreek.org/blog/page/2/
+		https://www.shaverscreek.org/blog/page/3/
+		https://www.shaverscreek.org/blog/page/58/
+	http://www.shaverscreek.org/employment/internships/
+		https://www.shaverscreek.org/employment/aurora-employment/
+		https://www.shaverscreek.org/employment/naturalists/
+		https://www.shaverscreek.org/employment/internships/internship-application-form/
+	http://www.shaverscreek.org/blog/birding-cup-2018-truly-community-event
+		http://shaverscreek.org/BirdingCupDonations
+		https://www.shaverscreek.org/wp-login.php?redirect_to=https%3A%2F%2Fwww.shaverscreek.org%2F2018%2F05%2F09%2Fbirding-cup-2018-truly-community-event%2F
