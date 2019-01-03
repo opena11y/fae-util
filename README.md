@@ -191,3 +191,85 @@ out;
 </authorizations>
 
 ```
+## fae-util Examples ##
+
+### Example 1: Span domains that include all first-level subdomains
+
+* Follow all links in the domain specified by the URL (illinois.edu) and all of its first-level subdomains (*.illinois.edu)
+* This example will traverse illinois.edu, calendar.illinois.edu, cita.illinois.edu, www.illinois.edu, etc.
+
+```
+fae-util -u http://illinois.edu -d 2 -s illinois.edu -o temp1
+```
+
+### Example 2: Span domains that include sibling subdomains 
+
+* Follow all links in the domain specified by the URL (cita.illinois.edu) and all of its sibling domains (including illinois.edu).
+* This example will traverse illinois.edu, calendar.illinois.edu and disability.illinois.edu, but will not traverse second-level subdomains such as fae.cita.illinois.edu or presentations.cita.illinois.edu.
+
+```
+fae-util -u http://cita.illinois.edu -d 2 -s illinois.edu -o temp1
+```
+
+### Example 3: Include another domain 
+
+* Follow all links in the domain specified by the URL (illinois.edu) along with an additional domain (www.illinois.edu).
+* This example will traverse illinois.edu and www.illinois.edu only.
+
+```
+fae-util -u http://illinois.edu -d 2 -i www.illinois.edu -o temp1
+```
+
+### Example 4: Span domains and exclude a subdomain ===
+
+* Follow all links in the domain specified by the URL and all of its first-level subdomains, with one exception.
+* This example will traverse cita.illinois.edu, courses.cita.illinois.edu, fae.cita.illinois.edu, but will not traverse presentations.cita.illinois.edu.
+
+```
+fae-util -u http://cita.illinois.edu -d 2 -s cita.illinois.edu -e presentations.cita.illinois.edu -o temp1
+```
+
+### Example 5: Span multiple domains and their subdomains 
+
+* Follow all links in the domain specified by the URL (illinois.edu) as well as the domains listed after "-s" and all of their first-level subdomains.
+* This example will traverse illinois.edu and news.illinois.edu, www.news.illinois.edu, aces.calendar.illinois.edu, www.inclusiveillinois.illinois.edu.
+
+```
+fae-util -u http://illinois.edu -d 2 -s news.illinois.edu,calendar.illinois.edu,inclusiveillinois.illinois.edu -o temp1
+```
+
+### Example 6: Include multiple domains (but not their subdomains) 
+
+* Follow all links in the domain specified by the URL (illinois.edu) as well as the domains listed after "-i".
+* This example will traverse illinois.edu and news.illinois.edu, calendar.illinois.edu and inclusiveillinois.illinois.edu.
+
+```
+fae-util -u http://illinois.edu -d 2 -i news.illinois.edu,calendar.illinois.edu,inclusiveillinois.illinois.edu -o temp1
+```
+
+### Example 7: Span domains and exclude multiple subdomains
+
+* Follow all links in the domain specified by the URL and all of its first-level subdomains (as specified with "-s"), except for the domains listed after "-e".
+* This example will traverse illinois.edu, news.illinois.edu, cita.illinois.edu (but not presentations.cita.illinois.edu) and all other subdomains of illinois.edu with the exception of library.illinois.edu, aces.illinois.edu, las.illinois.edu and engineering.illinois.edu.
+
+```
+fae-util -u http://illinois.edu -d 2 -s illinois.edu -e library.illinois.edu,aces.illinois.edu,las.illinois.edu,engineering.illinois.edu -o temp1
+```
+
+### Example 8: Error condition 
+
+* If the exclude option is not a subdomain of one of the span domain options, then the exclude domain name is ignored and a message should be sent to the console indicating the error.
+* In this example the -e option would be ignored.
+
+```
+fae-util -u http://illinois.edu -d 2 -s illinois.edu -e illinois.edu -o temp1
+```
+
+### Example 9: Error condition 
+
+* If any of the -s, -i or -e options are used and -d is not specified with a value of either 2 or 3, a message should be displayed indicating the error.
+* In this example, the -s and -e options would be ignored.
+
+```
+fae-util -u http://cita.illinois.edu -s cita.illinois.edu -e presentations.cita.illinois.edu -o temp1
+```
