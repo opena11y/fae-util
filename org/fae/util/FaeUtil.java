@@ -63,7 +63,6 @@ import com.gargoylesoftware.htmlunit.html.HtmlElement;
  *   3. Save the results From each ScriptResult object in specified directory
  */
 // $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-// $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 class FaeUtil {
 
   private static String VERSION = "1.3";
