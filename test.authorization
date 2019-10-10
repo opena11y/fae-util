@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authorizations>
+  <authorization> 
+    <url>http://fae20-dev.cita.illinois.edu/login/</url>
+    <form name="fae20_login"/>
+    <submit tag="input" type="submit"/>
+    <control name="username" value="dummylogin"/> 
+    <control name="password" value="test1234"/> 
+    <verification text=""/>
+  </authorization>
+  <authorization>
+	<url>http://www.masteringbiology.com/site/login.html</url>
+	<form name="loginForm" />
+	<submit tag="button" type="submit"/>
+	<control name="nme" value="uillinois_review" />
+	<control name="pwd" value="password2013" />
+	<verification enabled="true" text="Sign Out"/>
+  </authorization> 
+  <authorization>
+	<url>book.com</url>
+	<url-match type="endsWith" />
+	<form id="login_form" />
+	<submit tag="input" type="submit"/>
+	<control name="email" value="dummylogintest@gmail.com" />
+	<control name="pass" value="test1234" />
+	<verification enabled="true" text="Log Out" />
+  </authorization>
+  <authorization>
+	<url>https://compass2g.illinois.edu</url>
+	<form name="login" />
+	<submit tag="input" type="submit" />
+	<control name="user_id" value="pro" />
+	<control name="password" value="" />
+	<verification enabled="true" text="Logout"/>
+  </authorization>
+  <authorization>
+	<url>https://app.cloudforge.com</url>
+	<form index="0" />
+	<submit tag="input" type="submit" />
+	<control count="3" />
+	<control id="1" name="org" value="openaccessibilityalliance" />
+	<control id="2" name="login" value="" />
+	<control id="3" name="password" value="" />
+	<verification enabled="true" text="Log Me Out" />
+  </authorization>
+</authorizations>
