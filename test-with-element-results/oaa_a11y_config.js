@@ -6,5 +6,5 @@ evaluator_factory.setFeature('eventProcessing', 'fae-util');
 evaluator_factory.setFeature('groups', 7); 
 var evaluator = evaluator_factory.newEvaluator();
 var evaluation = evaluator.evaluate(doc, doc.title, doc.location.href);
-var out = evaluation.toJSON(false);
+var out = evaluation.toJSON(true);
 out;
