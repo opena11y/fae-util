@@ -27,3 +27,11 @@ hs_err_pid*
 ######################
 .DS_Store
 .DS_Store?
+
+# Local files
+faeUtil.properties
+.classpath
+.project
+.settings/
+outputTmp/
+test.authorization
