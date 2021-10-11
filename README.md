@@ -64,7 +64,7 @@
 The properties file defines default values for some user-accessible options, but also includes properties that are not user-editable.
 
 ```
-browserVersion=<string: 'Firefox' | 'Chrome' | 'IE', default='Firefox'> (the latest version of each browser type supported in HTMLUnit is assumed, see Reference 1)
+browserVersion=<string: 'Firefox' | 'Chrome' | 'IE' | 'Edge' | 'Best', default='Firefox'> (the latest version of each browser type supported in HTMLUnit is assumed, see Reference 1)
 scripts=<filename, default='openajax_a11y/oaa_a11y_scripts.txt'>
 excludeExtensions=<filename>
 wait=<number in milliseconds, default=30000>

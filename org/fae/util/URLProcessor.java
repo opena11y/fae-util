@@ -2,6 +2,7 @@ package org.fae.util;
 
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.security.Security;
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
@@ -14,8 +15,15 @@ import javax.xml.xpath.XPathConstants;
 import org.eclipse.jetty.http.HttpStatus;
 import org.w3c.dom.Document;
 
+import com.gargoylesoftware.htmlunit.AjaxController;
+import com.gargoylesoftware.htmlunit.AlertHandler;
 import com.gargoylesoftware.htmlunit.BrowserVersion;
+import com.gargoylesoftware.htmlunit.History;
+import com.gargoylesoftware.htmlunit.NicelyResynchronizingAjaxController;
+import com.gargoylesoftware.htmlunit.RefreshHandler;
 import com.gargoylesoftware.htmlunit.ScriptResult;
+import com.gargoylesoftware.htmlunit.SilentCssErrorHandler;
+import com.gargoylesoftware.htmlunit.WaitingRefreshHandler;
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.DomElement;
 import com.gargoylesoftware.htmlunit.html.HtmlAnchor;
@@ -23,6 +31,9 @@ import com.gargoylesoftware.htmlunit.html.HtmlElement;
 import com.gargoylesoftware.htmlunit.html.HtmlForm;
 import com.gargoylesoftware.htmlunit.html.HtmlImage;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
+import com.gargoylesoftware.htmlunit.javascript.AbstractJavaScriptEngine;
+import com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine;
+import com.sun.org.apache.bcel.internal.classfile.Field;
 
 // $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 // $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -757,8 +768,8 @@ public class URLProcessor {
 			} catch (Exception e) {
 				e.printStackTrace();
 			} finally {
-				// if (webClient != null)
-				// webClient.close();
+				 if (webClient != null)
+					 webClient.close();
 			}
 
 			// ------------------------------------------------------------------------
@@ -1079,18 +1090,12 @@ public class URLProcessor {
 				// Get the page to analyze
 				m_faeUtil.verbose(" ----- READING PAGE");
 				// FaeUtil.verbose("----------------------------------------");
-				m_webClient.getOptions().setPrintContentOnFailingStatusCode(
-						false);
-				m_webClient.getOptions().setThrowExceptionOnScriptError(false);
-				if (m_faeUtil.m_ctrl.JAVA_SCRIPT.equals("false"))
-					m_webClient.getOptions().setJavaScriptEnabled(false);
-				else
-					m_webClient.getOptions().setJavaScriptEnabled(true);
 				m_faeUtil.verbose("\t" + m_urlNum + ": Retrieving DOM... ");
 				startTime = System.currentTimeMillis();
-				m_webClient.getOptions().setUseInsecureSSL(true); // JSH added
+				
 				URL requestUrl = new URL(m_url);
 				HtmlPage page = m_webClient.getPage(requestUrl);
+
 				// List<FrameWindow> window = page.getFrames();
 				m_faeUtil.debug(" &&&&& " + page.getWebResponse());
 				m_faeUtil.debug(" &&&&& "
@@ -1181,14 +1186,12 @@ public class URLProcessor {
 								&& m_faeUtil.m_evaluationScript.length() > 0) {
 							m_faeUtil.verbose(" ----- EVALUATING SCRIPT");
 							// FaeUtil.verbose("----------------------------------------");
-							m_webClient.getOptions()
-									.setThrowExceptionOnScriptError(true);
+							m_webClient.getOptions().setThrowExceptionOnScriptError(false);
 							m_faeUtil.verbose("\t" + m_urlNum
 									+ ": Running evaluation scripts... ");
 							startTime = System.currentTimeMillis();
 
-							ScriptResult result = page
-									.executeJavaScript(m_faeUtil.m_evaluationScript);
+							ScriptResult result = page.executeJavaScript(m_faeUtil.m_evaluationScript);
 
 							// System.out.println("result=>" + result);
 							// System.out.println("result.getJavaScriptResult()=>"
