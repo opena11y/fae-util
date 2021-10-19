@@ -9,7 +9,6 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.Enumeration;
@@ -43,12 +42,10 @@ import com.gargoylesoftware.htmlunit.Page;
 import com.gargoylesoftware.htmlunit.RefreshHandler;
 import com.gargoylesoftware.htmlunit.ScriptResult;
 import com.gargoylesoftware.htmlunit.SilentCssErrorHandler;
-import com.gargoylesoftware.htmlunit.WaitingRefreshHandler;
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.DomNode;
 import com.gargoylesoftware.htmlunit.html.HtmlAnchor;
 import com.gargoylesoftware.htmlunit.html.HtmlElement;
-import com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine;
 import com.gargoylesoftware.htmlunit.javascript.SilentJavaScriptErrorListener;
 
 /**
@@ -960,9 +957,14 @@ class FaeUtil {
       if (m_props != null && m_props.getProperty("exportExtension") != null)
         suffix = "." + m_props.getProperty("exportExtension");
       String basename = filePrefix + num + suffix;
-      System.out.println("\t" + urlNum + ": Saving results file: " + basename + "(" + total + " msec)");
+      
       String filename = OUTPUT_DIRECTORY + FILESEP + basename;
-      FileUtil.writeStringToFile(result.getJavaScriptResult() == null ? "result.getJavaScriptResult() == null" : result.getJavaScriptResult().toString(), filename);
+      //FileUtil.writeStringToFile(result.getJavaScriptResult() == null ? "result.getJavaScriptResult() == null" : result.getJavaScriptResult().toString(), filename);
+      // Create and save output file only if there is no script error
+      if (result.getJavaScriptResult() != null) {
+    	  System.out.println("\t" + urlNum + ": Saving results file: " + basename + "(" + total + " msec)");
+    	  FileUtil.writeStringToFile(result.getJavaScriptResult().toString(), filename);
+      }
       if(result.getJavaScriptResult()==null)
     	  System.err.println("Script Error!");
     }
